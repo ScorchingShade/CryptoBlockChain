@@ -45,3 +45,10 @@ Install them as following via pip
 ```sh
  pip install Flask==0.12.2 requests==2.18.4 
  ```
+ 
+ Under MIT License.
+ Immense gratitude to Hackernoon and Daniel.
+  
+ Leave a star and check out more amazing codes by Ankush Sharma
+
+Leave a message at ankushors789@gmail.com
